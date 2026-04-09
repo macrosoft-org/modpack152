@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "1.5.2": {
+      "name": "1.5.2",
+      "lastVersionId": "LiteLoader1.5.2",
+      "javaDir": ".macrosoft\\1.5.2\\java\\bin\\java",
+      "javaArgs": "-Xmx384M"
+    }
+  },
+  "selectedProfile": "1.5.2"
+}
